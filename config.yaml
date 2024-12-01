@@ -1,7 +1,7 @@
 spotify:
   client_id: "your_spotify_client_id"
   client_secret: "your_spotify_client_secret"
-  redirect_uri: "your_redirect_uri"
+  redirect_uri: "http://localhost:8888/callback"
 
 discord:
   client_id: "your_discord_bot_client_id"
