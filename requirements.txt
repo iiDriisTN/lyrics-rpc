@@ -1,0 +1,5 @@
+pypresence==4.3.0
+PyYAML==6.0.2
+Requests==2.32.3
+spotipy==2.24.0
+syncedlyrics==1.0.1
